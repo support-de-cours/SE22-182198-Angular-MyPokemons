@@ -29,4 +29,8 @@ export class PokeapiService {
   {
     return this._pokemons;
   }
+
+  // ----
+  // Creation des methodes de recup des données d'un pokemon
+  // ----
 }
